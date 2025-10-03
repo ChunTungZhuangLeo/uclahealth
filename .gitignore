@@ -14,3 +14,5 @@ contrastive/
 *.ckpt
 *.h5
 mae/SimMTM/
+*.xpt
+NHANES/acc/
