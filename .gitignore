@@ -13,3 +13,4 @@ contrastive/
 *.pth
 *.ckpt
 *.h5
+mae/SimMTM/
