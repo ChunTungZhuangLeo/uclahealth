@@ -1,0 +1,15 @@
+# big local data (skip for now)
+SelfPAB/
+NHANES/
+contrastive/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.h5
